@@ -1,3 +1,3 @@
 Yhteinen teksti
 
-Tämä ohjelma auttaa opiskelijoita.
+Tämä ohjelma auttaa opiskelijoita suunnittelemaan tehtäviä.
