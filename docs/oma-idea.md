@@ -12,3 +12,7 @@ Kaikki tulevat tehtävät ja niiden määräajat näkyvät yhdessä paikassa.
 ## Ensimmäinen ominaisuus
 
 Ohjelma näyttää tehtävän nimen, palautuspäivän ja tehtävän tilan.
+
+## Miksi tämä ohjelma on hyödyllinen?
+
+Opiskelija näkee kaikki tehtävänsä yhdestä paikasta ja pystyy suunnittelemaan ajankäyttöään.
