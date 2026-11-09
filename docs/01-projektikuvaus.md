@@ -32,21 +32,13 @@ Asiakas haluaa jakaa omat kuntotietonsa valmentajalleen, jotta valmentaja voi hy
 | Tunniste | Vaatimus | Hyväksymiskriteeri | Prioriteetti |
 |---|---|---|---|
 |V1 | Valmentaja voi tarkastella asiakkaiden kuntotietoja. | Asiakkaan tiedot näkyvät valmentajalle käyttöliittymässä asiakkaan luvalla. | Korkea|
-
 |V2 | Sovellus näyttää asiakkaan askelmäärät. | Päivittäiset askelmäärät näkyvät oikein. | Korkea|
-
 |V3 | Sovellus näyttää asiakkaan syketiedot. | Saatavilla olevat syketiedot näkyvät käyttöliittymässä. | Korkea|
-
 |V4 | Sovellus näyttää asiakkaan unitiedot. | Unen kesto ja saatavilla olevat univaiheet näkyvät. | Keskitaso|
-
 |V5 | Sovellus näyttää asiakkaan kalorikulutuksen. | Päivittäiset kalorikulutustiedot näkyvät. | Keskitaso|
-
 |V6 | Sovellus näyttää asiakkaan stressitiedot. | Saatavilla olevat stressitiedot näkyvät käyttöliittymässä. | Keskitaso|
-
 |V7 | Valmentaja voi valita tarkasteltavan asiakkaan. | Valmentaja pystyy siirtymään asiakkaan tietoihin käyttöliittymässä. | Korkea|
-
 |V8 | Asiakas voi antaa luvan tietojensa jakamiseen. | Asiakkaan tietoja ei näytetä valmentajalle ilman asianmukaista lupaa. | Korkea|
-
 |V9 | Sovelluksessa on selkeä käyttöliittymä. | Tiedot ovat helposti löydettävissä ja luettavissa. | Korkea|
 
 
