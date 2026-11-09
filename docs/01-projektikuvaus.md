@@ -58,13 +58,9 @@ Stressitietojen näyttäminen, jos niitä on saatavilla.
 Asiakaskohtainen tietojen tarkastelu.
 Tietojen esittäminen selkeinä kortteina ja kaavioina.
 
-Projektin ulkopuolelle jätetään ensimmäisessä vaiheessa mobiilisovelluksen kehittäminen, muiden älykellovalmistajien tukeminen, harjoitusohjelmien automaattinen luominen, maksulliset palvelut sekä laaja asiakashallintajärjestelmä.
+Projektin ulkopuolelle jätetään ensimmäisessä vaiheessa älykellovalmistajien tukeminen.
 
 Ensimmäinen toteutus keskittyy Garmin Venu 2 -kelloon ja rajattuun määrään asiakkaita.
-
-Projektissa toteutetaan ensimmäisessä vaiheessa [tärkeimmät ominaisuudet].
-
-Projektin ulkopuolelle jätetään [ominaisuudet, joita ei toteuteta].
 
 
 
@@ -73,8 +69,8 @@ Projektin ulkopuolelle jätetään [ominaisuudet, joita ei toteuteta].
 
 Ohjelmisto koostuu seuraavista osista:
 
-Käyttöliittymä: HTML-, CSS- ja JavaScript-tekniikoilla toteutettu selainpohjainen käyttöliittymä, jossa valmentaja voi valita asiakkaan ja tarkastella tämän kuntotietoja.
-Tiedot esitetään selkeinä tietokortteina ja kaavioina. Kaavioissa voidaan hyödyntää Chart.js-kirjastoa.
+Käyttöliittymä: HTML-selainpohjainen käyttöliittymä, jossa valmentaja voi valita asiakkaan ja tarkastella tämän kuntotietoja.
+Tiedot esitetään selkeinä tietokortteina ja kaavioina.
 
 Sovelluksen toiminnallisuus: Pythonilla toteutettu taustapalvelu, joka hakee Garmin Connect -tietoja ja välittää ne käyttöliittymälle.
 
