@@ -1,1 +1,1 @@
-
+https://metropoliafi-my.sharepoint.com/:v:/r/personal/arttuker_metropolia_fi/Documents/Recordings/Puhelu%20henkilön%20Teemu%20Anttila%20kanssa-20261118_130213-Kokouksen%20tallenne.mp4?d=w9e693149e2f440ec9e273a434dcbbb9e&csf=1&web=1&e=G4SZZ5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
