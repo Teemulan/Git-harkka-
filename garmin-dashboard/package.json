@@ -1,0 +1,18 @@
+
+{
+  "name": "garmin-sports-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Garmin Sports Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
